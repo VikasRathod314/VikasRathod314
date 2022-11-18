@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Machine Learning, NLP and Computer vision.<br><br>I am currently learning Natural Language Processing.<br><br>You can ask me about Python ,Machine Learning, Deep Learning and Computer Vision.
+I am currently working on Computer vision.<br><br>I am currently learning Natural Language Processing.<br><br>You can ask me about Python ,Machine Learning, Deep Learning, Computer Vision and Natural language Processing.
 
 
 ## 🌐 Socials:
